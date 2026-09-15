@@ -1,4 +1,3 @@
-Readme · MD
 👋 Hi, I'm Kyle — a GRC Leader building toward engineered, automated compliance
 
 I lead Risk & Compliance at a global SaaS company, where I own a six-framework certification portfolio — ISO 27001, ISO 27018, SOC 2, SOC 3, FedRAMP, and IRAP — and manage a team of seven across enterprise risk, vendor risk, privacy, and compliance testing.
